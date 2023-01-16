@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: 외식산업경영학과
+  uni: 동의대학교
+  year: 2009 &mdash; 2016
+  #awards:
+   # - award: Summa Cumme Laude graduate
+  #summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 인문계열
+  uni: 남산고등학교
+  year: 2006 &mdash; 2009
+  #award: Most likely to succeed
+  #summary: You can choose to have either a single or multiple awards
