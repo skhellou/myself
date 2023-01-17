@@ -3,13 +3,7 @@
 
 
 - project: Higo (Hidden Gosu, 총 인원 5명)
-  role: 조장(프로젝트 총괄) <br> 
-  - legacy project 환경구축<br>
-  - DB 설계 총괄<br> - 프로젝트 필요한 문서 조원 역할 분담<br>
-  - 기능요구사항에 정의 후 기능 분배<br>
-  - 코드 취합 후 디버깅<br>
-  -  회원관련, 게시판, 매칭시스템<br>
-  - 로그인 세션 처리
+  role: 조장(프로젝트 총괄)<ul class="resume-item-list"><li>legacy project 환경구축</li><li>DB 설계 총괄</li><li>프로젝트 필요한 문서 조원 역할 분담</li><li>기능요구사항에 정의 후 기능 분배</li><li>코드 취합 후 디버깅</li><li>회원관련, 게시판, 매칭시스템</li><li>로그인 세션 처리</li></ul>
   duration: 2012 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
