@@ -98,7 +98,7 @@
   .icon-link { display: inline-block;
 
     &:hover .icon path {
-      fill: #333;
+      fill: #efefef;
       @include transition(all .2s ease);
     }
   }
