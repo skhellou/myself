@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 
-- project: <li class="icon-link-item">{% include icons/icon-website.html %}</li>Higo (Hidden Gosu, 총 인원 5명) | 숨고 사이트 프로젝트
+- project: 🔗 Higo (Hidden Gosu, 총 인원 5명) | 숨고 사이트 프로젝트
   role: 조장(프로젝트 총괄)<ul class="resume-item-list"><li>legacy project 환경구축</li><li>DB 설계 총괄</li><li>프로젝트 필요한 문서 조원 역할 분담</li><li>기능요구사항에 정의 후 기능 분배</li><li>코드 취합 후 디버깅</li><li>회원관련, 게시판, 매칭시스템</li><li>로그인 세션 처리</li></ul>
   duration: 2022.11.09 ~ 2022.12.09
   url: "https://www.notion.so/Higo-Hidden-Gosu-aa16f1e76630492e8e70115415579076"
