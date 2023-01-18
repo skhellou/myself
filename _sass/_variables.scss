@@ -12,7 +12,12 @@ $black:             #333;
 $text_color:        $white;
 
 // Font stack
-$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, Verdana, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$body-font: @font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}!default;
 
 // The base body size
 $body-font-size: 13px !default;
