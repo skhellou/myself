@@ -3,7 +3,11 @@
 - company: 코리아 IT 아카데미(강남)
   position: 디지털데이터 융합 자바기반 풀스택 개발자 양성 과정
   duration: 2022.07 &mdash; 2022.12 (총 98일|875시간)
-  summary: 📔교육내용 <br> - 구현 UI, 동작 요구사항에 따라 유효성 검사, 비동기 request를 통한 response결과 화면 구현하기<br>&nbsp;&nbsp; ⎯→open API를 활용한 영화 검색하기<br>
+  summary: 📔교육내용 <br> - 구현 UI, 동작 요구사항에 따라 유효성 검사, 비동기 request를 통한 response결과 화면 구현하기<br>&nbsp;&nbsp; →open API를 활용한 영화 검색하기<br>- Javascript, HTML, CSS, jQuery, Bootstrap을 활용한 동적인 웹 페이지 만들기 (로컬서버)<br>&nbsp;&nbsp; →공공API + AJAX, 카카오 맵 API 활용으로 근처 공원 찾기, 서울시 공원 찾기<br>&nbsp;&nbsp; →개발자도구 활용하여 디버깅 후 오류 수정하기<br>- 관계형 데이터베이스에서 SQL을 사용해 데이터 정의, 조작, 제어하기<br>&nbsp;&nbsp; →테이블의 구조, 제약조건 등 생성, 삭제, 수정할 수 있는 DDL명령문 작성<br>&nbsp;&nbsp; →조인, 서브쿼리, 집합연산자를 사용하여 두개 이상의 테이블로부터 데이터를 조회하는 DML명령문 작성하기<br>&nbsp;&nbsp; →반복적으로 사용하는 기능을 수행하기 위해 SQL명령문을 포함하는 프로시저 작성<br>- DBMS(Oracle)설치 후 저장소 연결, Dbeaver, SQLDeveloper Tool 활용, ER-Diagram 작성<br>- DBMS, MVC1 활용해 CRUD가 가능한 회원관리페이지 만들기<br>- Java기반으로 JSP, Spring 활용한 웹 애플리케이션 만들기 (로컬서버)<br>&nbsp;&nbsp; →MVC2 Legacy project 세팅<br>&nbsp;&nbsp; →MVC2모델, Mybatis를 이용하여 mapper XML파일을 통해 웹페이지에서 데이터 CRUD를 가능하게 한다.
+
+
+
+
 
 # Director of Digital Stratgy
 #- company: United Nations Human Rights Council
