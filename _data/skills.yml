@@ -1,15 +1,23 @@
 # Skills
 
 - skill: JAVA/Eclipse
-  description: 웹 프로그래밍 개발 가능, API 활용
+  description: 모듈화 코딩가능,  API 활용, eclipse 디버깅
 
 
-- skill: Oracle/SqlDeveloper/Dbeaver
-  description: SQL 문을 통한 데이터베이스 관리, ER-Diagram 작성 등
+- skill: JSP/Servlet
+  description: Taglib 사용, 프로젝트를 통한 웹 애플리케이션 제작 경험
 
+- skill: Mybatis
+  description: 웹 애플리케이션에서 동적 SQL 구현
 
-- skill: JSP/Spring/Apache Tomcat
-  description: Maven을 통한 라이브러리 활용, DI를 활용한 빈 관리, 톰캣 서버를 활용한 개발 환경 구축 및 작업 가능
+- skill: Spring
+  description: Legacy project를 이용하여 웹 애플리케이션 구현, Maven을 통한 라이브러리 활용, DI를 활용한 빈 관리
+  
+- skill: Oracle/Dbeaver/ Mybatis
+  description: SQL 문을 통한 데이터베이스 관리, ER-Diagram 작성 등 
+  
+- skill: Apache Tomcat
+  description: 톰캣 서버를 활용한 개발 환경 구축 및 작업 가능
 
 - skill: Github/Source tree
   description: spring과 git연동으로 협업, 개인 프로젝트 push 등
